@@ -1,0 +1,254 @@
+Command finished with exit code 0.
+Command output:
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        15-10-2026     18:45                .idea                                                                
+d-----        15-10-2026     11:28                .junie                                                               
+d-----        15-10-2026     18:44                cmd                                                                  
+d-----        15-10-2026     11:49                db                                                                   
+d-----        15-10-2026     11:23                internal                                                             
+d-----        15-10-2026     12:36                pkg                                                                  
+-a----        15-10-2026     12:32            370 .env                                                                 
+-a----        15-10-2026     12:24              4 .gitignore                                                           
+-a----        15-10-2026     11:59            338 docker-compose.yml                                                   
+-a----        15-10-2026     18:34           1705 go.mod                                                               
+-a----        15-10-2026     18:34           8536 go.sum                                                               
+-a----        15-10-2026     11:38           3841 package-lock.json                                                    
+-a----        15-10-2026     11:38             55 package.json                                                         
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\.idea
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+da----        15-10-2026     11:52                dataSources                                                          
+d-----        15-10-2026     12:47                inspectionProfiles                                                   
+-a----        15-10-2026     11:20            238 .gitignore                                                           
+-a----        15-10-2026     11:20            498 amazonq.xml                                                          
+-a----        15-10-2026     12:00           1071 dataSources.local.xml                                                
+-a----        15-10-2026     11:51            864 dataSources.xml                                                      
+-a----        15-10-2026     18:35           1130 data_source_mapping.xml                                              
+-a----        15-10-2026     11:20            258 go.imports.xml                                                       
+-a----        15-10-2026     11:20            279 modules.xml                                                          
+-a----        15-10-2026     18:23            920 sqldialects.xml                                                      
+-a----        15-10-2026     11:20            330 TwitSocial.iml                                                       
+-a----        15-10-2026     18:45           9405 workspace.xml                                                        
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\.idea\dataSources
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        15-10-2026     11:52                c25e661b-a6bd-4770-ba99-db66a5588ec1                                 
+-a----        15-10-2026     11:52          40828 c25e661b-a6bd-4770-ba99-db66a5588ec1.xml                             
+-a----        15-10-2026     11:52           1588 data_sources_history.xml                                             
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\.idea\dataSources\c25e661b-a6bd-4770-ba99-db66a5588ec1
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        15-10-2026     11:52                storage_v2                                                           
+
+
+    Directory: C:\Users\Prasanna Kumar 
+    M\Documents\TwitSocial\.idea\dataSources\c25e661b-a6bd-4770-ba99-db66a5588ec1\storage_v2
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        15-10-2026     11:52                _src_                                                                
+
+
+    Directory: C:\Users\Prasanna Kumar 
+    M\Documents\TwitSocial\.idea\dataSources\c25e661b-a6bd-4770-ba99-db66a5588ec1\storage_v2\_src_
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        15-10-2026     11:52                schema                                                               
+
+
+    Directory: C:\Users\Prasanna Kumar 
+    M\Documents\TwitSocial\.idea\dataSources\c25e661b-a6bd-4770-ba99-db66a5588ec1\storage_v2\_src_\schema
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        15-10-2026     11:52             76 information_schema.FNRwLQ.meta                                       
+-a----        15-10-2026     11:52             63 mysql.osA4Bg.meta                                                    
+-a----        15-10-2026     11:52             76 performance_schema.kIw0nw.meta                                       
+-a----        15-10-2026     11:52             61 sys.zb4BAA.meta                                                      
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\.idea\inspectionProfiles
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        15-10-2026     12:47            457 Project_Default.xml                                                  
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\.junie
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        15-10-2026     11:28                memory                                                               
+d-----        15-10-2026     11:28                plans                                                                
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\.junie\memory
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        15-10-2026     18:54              0 errors.md                                                            
+-a----        15-10-2026     18:54              0 feedback.md                                                          
+-a----        15-10-2026     18:54              2 language.json                                                        
+-a----        15-10-2026     18:54              3 memory.version                                                       
+-a----        15-10-2026     18:54              0 tasks.md                                                             
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\cmd
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        15-10-2026     18:44           1049 main.go                                                              
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\db
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        15-10-2026     18:35                migrations                                                           
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\db\migrations
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        15-10-2026     18:33            376 20261015061933_create_user_table.sql                                 
+-a----        15-10-2026     18:33            442 20261015063126_create_post_table.sql                                 
+-a----        15-10-2026     18:33            552 20261015063557_create_comment_table.sql                              
+-a----        15-10-2026     18:35            527 20261015063852_create_post_likes_table.sql                           
+-a----        15-10-2026     18:35            828 20261015064201_create_comment_likes_table.sql                        
+-a----        15-10-2026     18:35            442 20261015064513_create_refresh_token_table.sql                        
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\internal
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        15-10-2026     12:32                config                                                               
+d-----        15-10-2026     11:23                db                                                                   
+d-----        15-10-2026     18:20                dto                                                                  
+d-----        15-10-2026     18:04                handler                                                              
+d-----        15-10-2026     11:19                middleware                                                           
+d-----        15-10-2026     18:20                model                                                                
+d-----        15-10-2026     18:00                repository                                                           
+d-----        15-10-2026     18:03                service                                                              
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\internal\config
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        15-10-2026     12:32            804 config.go                                                            
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\internal\dto
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        15-10-2026     18:20            283 user_dto.go                                                          
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\internal\handler
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        15-10-2026     18:43                user                                                                 
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\internal\handler\user
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        15-10-2026     18:43            427 handler.go                                                           
+-a----        15-10-2026     18:43            604 register.go                                                          
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\internal\model
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        15-10-2026     18:20            182 user_model.go                                                        
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\internal\repository
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+da----        15-10-2026     18:33                user                                                                 
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\internal\repository\user
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        15-10-2026     18:33            570 create_user.go                                                       
+-a----        15-10-2026     18:23            616 get_user_by_email_or_username.go                                     
+-a----        15-10-2026     18:33            413 repository.go                                                        
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\internal\service
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        15-10-2026     18:39                user                                                                 
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\internal\service\user
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        15-10-2026     18:39           1038 register.go                                                          
+-a----        15-10-2026     18:20            513 service.go                                                           
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\pkg
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        15-10-2026     13:09                internalsql                                                          
+
+
+    Directory: C:\Users\Prasanna Kumar M\Documents\TwitSocial\pkg\internalsql
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        15-10-2026     13:09            541 mysql.go
