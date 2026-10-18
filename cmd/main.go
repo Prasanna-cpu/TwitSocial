@@ -46,7 +46,7 @@ func main() {
 	postRepo := postRepo.NewPostRepository(db)
 	commentRepo := commentRepo.NewCommentRepository(db)
 	userService := userService.NewService(loadConfig, userRepo)
-	postService := postService.NewPostService(loadConfig, postRepo)
+	postService := postService.NewPostService(loadConfig, postRepo, commentRepo)
 	commentService := commentService.NewCommentService(loadConfig, commentRepo, postRepo)
 	validate := validator.New()
 	userHandler := userHandler.NewHandler(r, validate, userService)

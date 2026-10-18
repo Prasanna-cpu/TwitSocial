@@ -21,4 +21,15 @@ type (
 		UpdatedAt time.Time
 		//DeletedAt time.Time
 	}
+
+	PostWithUserModel struct {
+		ID        string
+		UserID    string
+		Username  string
+		Title     string
+		Content   string
+		LikeCount int64
+		CreatedAt time.Time
+		UpdatedAt time.Time
+	}
 )

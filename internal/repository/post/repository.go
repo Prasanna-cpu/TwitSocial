@@ -14,6 +14,7 @@ type PostRepository interface {
 	IsUserAlreadyLikedPost(ctx context.Context, postID string, userID string) (bool, error)
 	DeleteLikePost(ctx context.Context, postID string, userID string) error
 	StoreLikePost(ctx context.Context, model *model.PostLikeModel) error
+	GetPostWithUser(ctx context.Context, postID string) (*model.PostWithUserModel, error)
 }
 
 type postRepository struct {

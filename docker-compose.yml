@@ -10,4 +10,8 @@ services:
       - MYSQL_USER=${MYSQL_USER}
       - MYSQL_PASSWORD=${MYSQL_PASSWORD}
     volumes:
-      - ./db:/var/lib/mysqld
+      - mysql_data:/var/lib/mysql
+
+volumes:
+  mysql_data:
+

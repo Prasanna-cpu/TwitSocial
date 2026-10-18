@@ -10,11 +10,16 @@ import (
 )
 
 func ConnectMySQL(cfg *config.Config) (*sql.DB, error) {
-	dataSourceName := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?parseTime=true&loc=%s", cfg.DBUser, cfg.DBPassword, cfg.DBHost, cfg.DBPort, cfg.DBName, "Asia%2FKolkata")
+	dataSourceName := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?parseTime=true&loc=%s&allowNativePasswords=true", cfg.DBUser, cfg.DBPassword, cfg.DBHost, cfg.DBPort, cfg.DBName, "Asia%2FKolkata")
 	db, err := sql.Open("mysql", dataSourceName)
 	if err != nil {
 		return nil, fmt.Errorf("failed to connect to MySQL: %w", err)
 	}
+
+	if err = db.Ping(); err != nil {
+		return nil, fmt.Errorf("failed to ping MySQL: %w", err)
+	}
+
 	log.Println("Successfully connected to MySQL")
 	return db, nil
 }

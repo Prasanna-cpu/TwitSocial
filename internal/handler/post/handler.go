@@ -29,4 +29,7 @@ func (h *Handler) RouteList(secretKey string) {
 	routeAuth.PUT("/update/:postId", h.UpdatePost)
 	routeAuth.DELETE("/delete/:postId", h.DeletePost)
 	routeAuth.POST("/action", h.LikeOrUnlikePost)
+
+	routeWithoutAuth := h.api.Group("/post")
+	routeWithoutAuth.GET("/detail/:postId", h.DetailPost)
 }
